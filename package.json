@@ -1,0 +1,23 @@
+{
+  "name": "fullstackshaw",
+  "version": "1.0.0",
+  "description": "edson argemon full stack test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argemon/shawtestfullstack.git"
+  },
+  "author": "Edson Argemon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argemon/shawtestfullstack/issues"
+  },
+  "homepage": "https://github.com/argemon/shawtestfullstack#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
