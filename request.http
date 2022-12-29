@@ -1,0 +1,12 @@
+POST http://localhost:4002/users
+content-type: application/json
+
+{
+    "username": "Edson Argemon",
+    "details": "edson details",
+    "repos": "repository",
+}
+
+###
+
+GET http://localhost:4002/users
